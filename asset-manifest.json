@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-Tree-React-js/static/css/main.f8d19bd4.chunk.css",
+    "main.js": "/Simple-Tree-React-js/static/js/main.f9d67f60.chunk.js",
+    "main.js.map": "/Simple-Tree-React-js/static/js/main.f9d67f60.chunk.js.map",
+    "runtime-main.js": "/Simple-Tree-React-js/static/js/runtime-main.3a17d2ab.js",
+    "runtime-main.js.map": "/Simple-Tree-React-js/static/js/runtime-main.3a17d2ab.js.map",
+    "static/js/2.06abb2dc.chunk.js": "/Simple-Tree-React-js/static/js/2.06abb2dc.chunk.js",
+    "static/js/2.06abb2dc.chunk.js.map": "/Simple-Tree-React-js/static/js/2.06abb2dc.chunk.js.map",
+    "index.html": "/Simple-Tree-React-js/index.html",
+    "precache-manifest.04ea9d895284c1e7747139983772c460.js": "/Simple-Tree-React-js/precache-manifest.04ea9d895284c1e7747139983772c460.js",
+    "service-worker.js": "/Simple-Tree-React-js/service-worker.js",
+    "static/css/main.f8d19bd4.chunk.css.map": "/Simple-Tree-React-js/static/css/main.f8d19bd4.chunk.css.map",
+    "static/js/2.06abb2dc.chunk.js.LICENSE.txt": "/Simple-Tree-React-js/static/js/2.06abb2dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a17d2ab.js",
+    "static/js/2.06abb2dc.chunk.js",
+    "static/css/main.f8d19bd4.chunk.css",
+    "static/js/main.f9d67f60.chunk.js"
+  ]
+}
